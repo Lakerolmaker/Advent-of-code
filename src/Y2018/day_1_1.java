@@ -1,15 +1,15 @@
-package Y2018.one;
+package Y2018;
 
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
 
-public class one {
+public class day_1_1 {
 
 	public static void main(String[] args) throws FileNotFoundException {
 		// TODO Auto-generated method stub
 
-		File inputText = new File("src/Y2018/one/input_file.txt"); 
+		File inputText = new File("src/Y2018/input_file.txt"); 
 		
 		Scanner scanner = new Scanner(inputText);
 		
